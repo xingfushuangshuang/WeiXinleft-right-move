@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DialogTest/DialogTest.iml" filepath="$PROJECT_DIR$/DialogTest/DialogTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intenttest/Intenttest.iml" filepath="$PROJECT_DIR$/Intenttest/Intenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lanuchmode/Lanuchmode.iml" filepath="$PROJECT_DIR$/Lanuchmode/Lanuchmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiXinTest.iml" filepath="$PROJECT_DIR$/WeiXinTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiXinTest/WeiXinTest-WeiXinTest.iml" filepath="$PROJECT_DIR$/WeiXinTest/WeiXinTest-WeiXinTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+    </modules>
+  </component>
+</project>
